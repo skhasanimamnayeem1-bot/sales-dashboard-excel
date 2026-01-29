@@ -53,13 +53,14 @@ This project is ideal for **data analytics beginners**, students, and business r
 ---
 
 ## 📸 Dashboard Preview
-> *(GitHub does not preview Excel dashboards. Please download the file to view the full dashboard.)*
+![Dashboard Preview](dashboard-preview.png)
+
 
 ---
 
 ## 👤 Author
 
-**Allfi Shahrin**  
+**SK Hassan Imam Nayeem**  
 - Student & Data Analytics Enthusiast  
 - Excel | Data Visualization | Dashboard Design  
 
